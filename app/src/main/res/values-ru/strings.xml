@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">KTS_android</string>
-    <string name="button_text">Push me</string>
+    <string name="button_text">Нажми меня</string>
 </resources>
