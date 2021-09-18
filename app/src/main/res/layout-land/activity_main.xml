@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    android:background="@color/seas_shell">
+    android:background="@color/bridal_health">
 
     <ImageView
         android:layout_width="wrap_content"
