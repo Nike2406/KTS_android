@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    android:background="@color/seas_shell">
+    android:background="@color/bg_color">
 
     <ImageView
         android:layout_width="wrap_content"
@@ -13,13 +13,14 @@
         android:layout_marginTop="50dp"/>
 
     <TextView
-        android:id="@+id/text"
+        android:id="@+id/mainText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:layout_marginVertical="40dp"/>
+
     <Button
-        android:id="@+id/button"
+        android:id="@+id/mainButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_text"/>

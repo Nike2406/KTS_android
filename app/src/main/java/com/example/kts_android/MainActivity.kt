@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        textView = findViewById(R.id.text)
-        findViewById<Button>(R.id.button).setOnClickListener{
+        textView = findViewById(R.id.mainText)
+        findViewById<Button>(R.id.mainButton).setOnClickListener{
             val newText = "Bye world!"
             textView?.text = newText
         }
