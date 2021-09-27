@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">KTS_android</string>
-    <string name="button_text">Нажми меня</string>
+    <string name="button_text">ВОЙТИ</string>
     <string name="hint_email">Введите ваш e-mail</string>
     <string name="text_email">e-mail</string>
     <string name="hint_password">Введите ваш пароль</string>
     <string name="text_password">password</string>
+    <string name="text_create_account">Нет аккаунта? Создайте!</string>
 </resources>
